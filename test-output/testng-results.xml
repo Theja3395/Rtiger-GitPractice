@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-09T19:13:00 IST" name="Default suite" finished-at="2023-02-09T19:13:00 IST" duration-ms="95">
+  <suite started-at="2023-02-09T19:17:27 IST" name="Default suite" finished-at="2023-02-09T19:17:27 IST" duration-ms="65">
     <groups>
     </groups>
-    <test started-at="2023-02-09T19:13:00 IST" name="Default test" finished-at="2023-02-09T19:13:00 IST" duration-ms="95">
-      <class name="demooo.Practice">
-        <test-method signature="demoTest1()[pri:0, instance:demooo.Practice@5276e6b0]" started-at="2023-02-09T19:13:00 IST" name="demoTest1" finished-at="2023-02-09T19:13:00 IST" duration-ms="11" status="PASS">
+    <test started-at="2023-02-09T19:17:27 IST" name="Default test" finished-at="2023-02-09T19:17:27 IST" duration-ms="65">
+      <class name="demooo.Depo">
+        <test-method signature="depoTest()[pri:0, instance:demooo.Depo@6193932a]" started-at="2023-02-09T19:17:27 IST" name="depoTest" finished-at="2023-02-09T19:17:27 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demoTest1 -->
-        <test-method signature="demoTest2()[pri:0, instance:demooo.Practice@5276e6b0]" started-at="2023-02-09T19:13:00 IST" name="demoTest2" finished-at="2023-02-09T19:13:00 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- demoTest2 -->
-        <test-method signature="demoTest3()[pri:0, instance:demooo.Practice@5276e6b0]" started-at="2023-02-09T19:13:00 IST" name="demoTest3" finished-at="2023-02-09T19:13:00 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- demoTest3 -->
-        <test-method signature="demoTest4()[pri:0, instance:demooo.Practice@5276e6b0]" started-at="2023-02-09T19:13:00 IST" name="demoTest4" finished-at="2023-02-09T19:13:00 IST" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- demoTest4 -->
-      </class> <!-- demooo.Practice -->
+        </test-method> <!-- depoTest -->
+      </class> <!-- demooo.Depo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
